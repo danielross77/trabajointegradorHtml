@@ -1,0 +1,17 @@
+/* para los h2*/
+.plural{
+    background-color: darkmagenta;
+}
+p{
+    font-size: 20px;;
+}
+#practica {
+    background-color: red;
+}
+#linkancla{
+    font-size: 30px;text-align: center;
+}
+/*para los parrafos*/
+.parrafo{
+    background-color: aqua;
+}
